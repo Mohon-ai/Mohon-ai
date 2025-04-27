@@ -1,4 +1,5 @@
 ## Hi there 👋
+🚀 New to GitHub | Learning, building, and sharing my journey in coding. Excited to grow and collaborate with the community!
 
 
 **Mohon-ai/Mohon-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
