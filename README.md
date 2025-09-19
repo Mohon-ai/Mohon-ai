@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   <h1 align="center">Hi 👋, I'm Mohon</h1>
-<h3 align="center">I am a running</h3>
+<h3 align="center">🚀 Computer Science & Engineering student (4th semester)
+💻 Exploring C++, Java, and databases
+🌱 Currently learning Data Structures, Algorithms, and Software Development
+🔭 Building small projects to sharpen my coding skills
+📚 Interested in problem-solving, open-source, and real-world applications
+⚡ Always curious to learn something new</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohon-ai&label=Profile%20views&color=0e75b6&style=flat" alt="mohon-ai" /> </p>
 
