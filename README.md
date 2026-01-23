@@ -40,10 +40,11 @@ Excited to grow and collaborate with the community!
   </a>
   <a href="https://www.linkedin.com/in/mohonroy/" target="blank">
     <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg"
          alt="linkedin"
          height="30"
-         width="40" />
+         width="40"
+         style="filter: invert(1);" />
   </a>
 </p>
 
