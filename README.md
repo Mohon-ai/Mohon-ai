@@ -6,7 +6,7 @@ Excited to grow and collaborate with the community!
 
 <h1 align="center">Hi 👋, I'm Mohon</h1>
 
-<h3 align="center">🚀 Computer Science & Engineering student (4th semester)</h3>
+<h3 align="center">🚀 Computer Science & Engineering student</h3>
 
 <p align="center">
 💻 Exploring C++, Java, and Databases <br/>
